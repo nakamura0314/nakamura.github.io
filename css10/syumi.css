@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(../img10/syumi4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    -webkit-text-stroke: 2px black;
+}
+
+.text {
+    text-align: center;
+}
+
+ol {
+    display: inline-block;
+    font-weight: bold;
+    color: white;
+    -webkit-text-stroke: 3px black;
+    font-size: 60px;
+    padding: 15px;
+}
+
+li {
+    padding: 30px;
+}
+
+a {
+    color:inherit;
+}
